@@ -48,6 +48,8 @@ group :development do
   gem 'rubocop-rails', '2.3.2', require: false
   gem 'better_errors'
   gem 'binding_of_caller'
+  gem 'pry-byebug'
+  gem 'pry-rails'
 end
 
 group :test do
